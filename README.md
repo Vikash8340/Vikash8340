@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar Ray</h1>
-<h3 align="center">Aspiring Software Developer | Java | PEGA | Web Technologies</h3>
+<h3 align="center">Aspiring Software Developer | Java | PEGA | Web Technologies |Python|</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Jharkhand, India-blue" />
