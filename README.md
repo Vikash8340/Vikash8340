@@ -13,7 +13,7 @@
 
 | Degree           | Institute               | Year       | CGPA/%  |
 |------------------|--------------------------|------------|---------|
-| MCA              | CMRIT                    | 2022–2024  | 8.5     |
+| MCA              | CMRIT                    | 2022–2024  | 8.78     |
 | B.Sc. (IT)       | Ranchi College           | 2016–2019  | 79.25%  |
 | Intermediate (PCM) | Amanat Ali Inter       | 2014–2016  | 62.20%  |
 | Matriculation    | St. John's High School   | 2012–2013  | 81.40%  |
