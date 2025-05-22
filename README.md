@@ -64,56 +64,10 @@ Tech: HTML, CSS, JavaScript
 🏥 PEGA-powered health claim system automating requests, approvals, and notifications.  
 Tech: PEGA PRPC, PostgreSQL
 
-📌 Customer Management Module – Hotel Management System
+📌 **[Hotel Management System](https://github.com/Vikash8340/HotelManagementSystem)**
 🏨 A Python Tkinter-based GUI to manage hotel customers, including real-time MySQL database interaction.
 Tech Stack: Python, Tkinter, MySQL, PIL
 
-💡 Features:
-🔐 Auto-generated Customer Reference ID
-
-📝 Add / Update / Delete / Reset customer records
-
-📋 Search customers by Mobile No or Reference ID
-
-📦 Dropdowns for Gender, Nationality, ID Proof
-
-🔍 Tabular view with scrollbar and real-time updates
-
-✅ Functional CRUD operations with integrated error handling
-
-⚙️ Requirements:
-Python
-
-MySQL Server
-
-mysql-connector-python
-
-Pillow
-
-🚀 Setup Instructions:
-Install required libraries:
-
-bash
-Copy
-Edit
-pip install mysql-connector-python pillow
-Make sure MySQL is running and a database named management with a customer table exists.
-
-Update your MySQL credentials in the script:
-
-python
-Copy
-Edit
-host="localhost",
-username="root",
-password="YourPassword",  # Replace with your MySQL root password
-database="management"
-Run the script:
-
-bash
-Copy
-Edit
-python customer_module.py
 ---
 
 ### 💼 Internship
