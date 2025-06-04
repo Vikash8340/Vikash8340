@@ -23,7 +23,7 @@
 ### 💼 Summary
 🎯 Motivated and detail-oriented **Software Developer** with strong skills in **Java, Python, Pega**, and web development.  
 ✅ Certified **Pega System Architect (CSA)** with hands-on experience in GUI apps, automation projects, and full-stack development.  
-✅ Certified by NPTEL by Python.
+✅ Certified by NPTEL on Python.
 🤝 A quick learner and team player, eager to contribute in dynamic environments.
 
 ---
