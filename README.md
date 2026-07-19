@@ -1,105 +1,257 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar Ray</h1>
-<h3 align="center">Aspiring Software Developer | Java | PEGA | Web Technologies |Python|</h3>
+
+<h3 align="center">
+Software Engineer | Python Developer | Machine Learning Enthusiast | Data Engineering | PySpark
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Jharkhand, India-blue" />
-  <img src="https://img.shields.io/badge/Email-vikash4evry123@gmail.com-red" />
-  <a href="https://github.com/Vikash8340"><img src="https://img.shields.io/badge/GitHub-Vikash8340-black" /></a>
+Building intelligent applications using Python, Machine Learning, Signal Processing and Data Engineering.
+</p>
+
+<p align="center">
+<a href="mailto:vikash4evry123@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vikash8340">
+<img src="https://img.shields.io/badge/GitHub-Vikash8340-181717?style=flat&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Vikash8340&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 🧑‍🎓 Education
+# 👨‍💻 About Me
 
-| Degree           | Institute               | Year       | CGPA/%  |
-|------------------|--------------------------|------------|---------|
-| MCA              | CMRIT                    | 2022–2024  | 8.78     |
-| B.Sc. (IT)       | Ranchi College           | 2016–2019  | 79.25%  |
-| Intermediate (PCM) | Amanat Ali Inter       | 2014–2016  | 62.20%  |
-| Matriculation    | St. John's High School   | 2012–2013  | 81.40%  |
-
----
-
-### 💼 Summary
-🎯 Motivated and detail-oriented **Software Developer** with strong skills in **Java, Python, Pega**, and web development.  
-✅ Certified **Pega System Architect (CSA)** with hands-on experience in GUI apps, automation projects, and full-stack development.  
-✅ Certified by NPTEL on Python.
-🤝 A quick learner and team player, eager to contribute in dynamic environments.
+- 💼 Software Engineer passionate about solving real-world problems.
+- 🐍 Strong in Python, Java and SQL.
+- 🤖 Currently working on Machine Learning, Audio Processing and Signal Processing.
+- 📊 Learning PySpark and Data Engineering.
+- 🌱 Continuously improving Data Structures & Algorithms.
+- 💬 Ask me about Python, Machine Learning, Java and Git.
 
 ---
 
-### 🛠️ Technical Skills
+# 🛠 Tech Stack
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PEGA](https://img.shields.io/badge/PEGA-14354C?style=for-the-badge&logo=pegasystems&logoColor=white)
-
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ---
 
-### 🚀 Projects
+## Machine Learning
 
-📌 **[Quiz Application](https://github.com/Vikash8340/quiz-app)**  
-🧠 Java Swing-based quiz app with real-time scoring and timer integration.  
-Tech: Java, Java Swing
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-📌 **[Health & Fitness Webpage](https://github.com/Vikash8340/health-fitness)**  
-💪 Responsive fitness site with embedded videos, diet plans, and a BMI calculator.  
-Tech: HTML, CSS, JavaScript
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-📌 **[LIC Insurance System](https://github.com/Vikash8340/lic-claim-system)**  
-🏥 PEGA-powered health claim system automating requests, approvals, and notifications.  
-Tech: PEGA PRPC, PostgreSQL
-
-📌 **[Hotel Management System](https://github.com/Vikash8340/HotelManagementSystem)**
-🏨 A Python Tkinter-based GUI to manage hotel customers, including real-time MySQL database interaction.
-Tech Stack: Python, Tkinter, MySQL, PIL
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
 ---
 
-### 💼 Internship
+## Data Engineering
 
-**Full Stack Web Development | Dotch Endeavours (Nov–Dec 2023)**  
-- 🏨 Designed a real-time room booking system with customer and payment management  
-- 🔐 Implemented authentication & data integration
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark)
 
 ---
 
-### 🏆 Achievements & Certifications
+## Signal Processing
 
-- 🎓 NPTEL: *The Joy of Computing using Python*  
-- ✅ Certified PEGA System Architect (CSA)  
-- 📜 PEGA PRPC Training Certificate – Harsha Training Pvt. Ltd.
+- FFT
+- STFT
+- Spectrogram
+- MFCC
+- Audio Feature Extraction
+- EDA/GSR Signal Processing
 
 ---
 
-### 📊 GitHub Stats
+## Web
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+---
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+## Tools
+
+Git • GitHub • VS Code • Jupyter Notebook
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 EDA Signal Processing Pipeline
+
+Developed a complete preprocessing pipeline for Electrodermal Activity (EDA) signals.
+
+**Highlights**
+
+- Data Cleaning
+- Butterworth Filtering
+- FFT Analysis
+- Tonic & Phasic Separation
+- SCR Peak Detection
+- Feature Extraction
+- ML-ready Dataset Generation
+
+**Tech**
+
+Python • NumPy • SciPy • Pandas • Matplotlib
+
+---
+
+### 🔹 Audio Feature Extraction
+
+Extracted meaningful audio features from WAV files.
+
+**Features**
+
+- STFT
+- Spectrogram
+- RMS Energy
+- Pitch
+- MFCC
+- Chroma
+- Zero Crossing Rate
+
+Prepared datasets for Machine Learning.
+
+---
+
+### 🔹 Chat Application
+
+Java Swing based real-time chat application.
+
+**Tech**
+
+Java • Swing
+
+---
+
+### 🔹 Quiz Application
+
+Java GUI application with timer and scoring system.
+
+---
+
+### 🔹 Hotel Management System
+
+Python Tkinter application with MySQL database integration.
+
+---
+
+# 💼 Experience
+
+### Software Engineer
+
+Working on
+
+- Machine Learning
+- Python Development
+- Data Processing
+- Signal Processing
+- Feature Engineering
+
+---
+
+# 🎓 Education
+
+| Degree | Institute | Score |
+|----------|----------------|-------|
+| MCA | CMRIT | 8.78 CGPA |
+| B.Sc (IT) | Ranchi College | 79.25% |
+
+---
+
+# 🏆 Certifications
+
+🏅 NPTEL - Joy of Computing using Python
+
+🏅 PEGA Certified System Architect (CSA)
+
+🏅 PEGA PRPC Training
+
+---
+
+# 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- PySpark
+- Data Engineering
+- Large Language Models (LLMs)
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikash8340&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash8340&layout=compact&theme=radical" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikash8340&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash8340&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 📬 Connect With Me
+# 🔥 GitHub Streak
 
-<p>
-  <a href="mailto:vikash4evry123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Vikash8340"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash8340&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikash8340&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="mailto:vikash4evry123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vikash8340">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+⭐ *"Keep Learning • Keep Building • Keep Growing"*
