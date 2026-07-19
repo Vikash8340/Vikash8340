@@ -1,7 +1,3 @@
-<p align="center">
-<img src=""C:\Users\vikas\OneDrive\Pictures\Vikash_pic.jpeg"g" width="220" style="border-radius:50%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Vikash Kumar Ray</h1>
 
 <h3 align="center">
