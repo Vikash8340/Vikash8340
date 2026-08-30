@@ -30,7 +30,7 @@ Building intelligent solutions with Python, Machine Learning, Biomedical Signal 
 
 # 👨‍💻 About Me
 
-I'm an **Associate Software Engineer** passionate about developing intelligent software solutions using **Python**, **Machine Learning**, **Signal Processing**, and **Data Engineering**.
+I'm an **Associate Software Engineer** passionate about developing intelligent software solutions using **Python**, **Machine Learning**, **Signal Processing**, **Data Science** and **Data Engineering**.
 
 Currently, I work on healthcare and wearable sensor analytics projects involving real-world biomedical signals and machine learning pipelines.
 
