@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar Ray</h1>
 
 <h3 align="center">
-Associate Software Engineer | Python Developer | Machine Learning | Biomedical Signal Processing | Data Engineering
+Associate Software Engineer | Python Developer | Machine Learning | Biomedical Signal Processing | Data Engineering | Data Science
 </h3>
 
 <p align="center">
